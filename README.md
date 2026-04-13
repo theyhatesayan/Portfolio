@@ -9,7 +9,7 @@ I am a passionate frontend developer focused on building modern, responsive, and
 
 ## 🌐 Live Portfolio
 
-🔗 https://your-portfolio-link.com  
+🔗 https://portfolio-six-mu-xdn0hhgc6m.vercel.app/ 
 
 ---
 
